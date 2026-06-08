@@ -1,0 +1,22 @@
+﻿{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "gonico525-plugins",
+  "owner": {
+    "name": "gonico525"
+  },
+  "metadata": {
+    "description": "gonico525 が公開する Claude Code プラグインのマーケットプレイス。"
+  },
+  "plugins": [
+    {
+      "name": "aidlc",
+      "source": {
+        "source": "github",
+        "repo": "gonico525/aidlc-plugin"
+      },
+      "description": "AI-Driven Development Lifecycle (AI-DLC) plugin. Provides skills and agents for the full AI-DLC workflow: envision, build, release, and operate phases.",
+      "category": "development",
+      "tags": ["aidlc", "sdlc", "ddd", "bdd", "tdd"]
+    }
+  ]
+}
