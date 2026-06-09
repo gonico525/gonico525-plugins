@@ -17,6 +17,16 @@
       "description": "AI-Driven Development Lifecycle (AI-DLC) plugin. Provides skills and agents for the full AI-DLC workflow: envision, build, release, and operate phases.",
       "category": "development",
       "tags": ["aidlc", "sdlc", "ddd", "bdd", "tdd"]
+    },
+    {
+      "name": "consulting-work",
+      "source": {
+        "source": "github",
+        "repo": "gonico525/consulting-work-plugin"
+      },
+      "description": "コンサルティング業務支援プラグイン。案件立ち上げ・仮説検討実行・壁打ちの3スキルを提供する。",
+      "category": "productivity",
+      "tags": ["consulting", "strategy", "sparring", "execution"]
     }
   ]
 }
