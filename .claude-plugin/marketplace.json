@@ -29,6 +29,17 @@
       "description": "コンサルティング業務支援プラグイン。案件立ち上げ・仮説検討実行・壁打ちの3スキルを提供する。",
       "category": "productivity",
       "tags": ["consulting", "strategy", "sparring", "execution"]
+    },
+    {
+      "name": "slide-creator",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/gonico525/slide-creator-plugin.git",
+        "sha": "93044d91aec7d7b8c27ee7593812e98930cea40f"
+      },
+      "description": "Generate PowerPoint presentations from structured slide data. Interactively organizes content with the user, builds intermediate JSON, and renders .pptx via python-pptx with 17 slide types.",
+      "category": "productivity",
+      "tags": ["powerpoint", "pptx", "slides", "presentation", "python-pptx"]
     }
   ]
 }
