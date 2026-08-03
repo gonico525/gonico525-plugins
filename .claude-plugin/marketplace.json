@@ -12,8 +12,7 @@
       "name": "aidlc",
       "source": {
         "source": "url",
-        "url": "https://github.com/gonico525/aidlc-plugin.git",
-        "sha": "ae6b59e35f7e38ea70ead214e23d84bde42585a3"
+        "url": "https://github.com/gonico525/aidlc-plugin.git"
       },
       "description": "AI-Driven Development Lifecycle (AI-DLC) plugin. Provides skills and agents for the full AI-DLC workflow: envision, build, release, and operate phases.",
       "category": "development",
@@ -23,8 +22,7 @@
       "name": "consulting-work",
       "source": {
         "source": "url",
-        "url": "https://github.com/gonico525/consulting-work-plugin.git",
-        "sha": "c8f0dc69829f869b106439320ecea6dbb5c1d0e2"
+        "url": "https://github.com/gonico525/consulting-work-plugin.git"
       },
       "description": "コンサルティング業務支援プラグイン。案件立ち上げ・仮説検討実行・壁打ちの3スキルを提供する。",
       "category": "productivity",
@@ -34,8 +32,7 @@
       "name": "slide-creator",
       "source": {
         "source": "url",
-        "url": "https://github.com/gonico525/slide-creator-plugin.git",
-        "sha": "93044d91aec7d7b8c27ee7593812e98930cea40f"
+        "url": "https://github.com/gonico525/slide-creator-plugin.git"
       },
       "description": "Generate PowerPoint presentations from structured slide data. Interactively organizes content with the user, builds intermediate JSON, and renders .pptx via python-pptx with 17 slide types.",
       "category": "productivity",
